@@ -1,4 +1,4 @@
-let aleatorio = (Math.floor(Math.random(1) * 109));
+let aleatorio = (Math.floor(Math.random(1) * 101));
 
 let pessoa = (Math.floor(Math.random(1) * 107));
 
