@@ -1,6 +1,6 @@
 let aleatorio = (Math.floor(Math.random(1) * 105));
 
-let pessoa = (Math.floor(Math.random(1) * 102));
+let pessoa = (Math.floor(Math.random(1) * 103));
 
 let tentativa = 0;
 
